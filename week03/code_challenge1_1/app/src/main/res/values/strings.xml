@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">code_challenge1_1</string>
+    <string name="login">LOGIN</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="agree"><![CDATA[I accept T&C]]></string>
+    <string name="submit">SUBMIT</string>
+</resources>

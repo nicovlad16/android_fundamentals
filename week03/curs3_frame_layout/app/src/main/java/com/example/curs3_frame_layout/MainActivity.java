@@ -1,6 +1,7 @@
 package com.example.curs3_frame_layout;
 
 import androidx.appcompat.app.AppCompatActivity;
+
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {

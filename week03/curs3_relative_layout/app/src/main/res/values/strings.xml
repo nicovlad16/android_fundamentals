@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">curs3_relative_layout</string>
+    <string name="spinner">prompt</string>
 </resources>

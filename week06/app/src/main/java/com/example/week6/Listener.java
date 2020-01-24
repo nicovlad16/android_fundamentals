@@ -1,4 +1,5 @@
 package com.example.week6;
 
-public class Listener {
+public interface Listener {
+    public void onButtonPressed();
 }

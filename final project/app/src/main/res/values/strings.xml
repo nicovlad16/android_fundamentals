@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">kotlin_server1</string>
+    <string name="empty_not_saved">Money item not saved because one of the fields is empty.</string>
+
+    <string name="button_edit">Edit</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_save">Save</string>
+    <string name="button_cancel">Cancel</string>
+
+    <string name="hint_item_name">Item</string>
+    <string name="hint_category">Category</string>
+    <string name="hint_type">Type (expense / income)</string>
+    <string name="hint_amount">Amount</string>
+
+</resources>
